@@ -1,0 +1,21 @@
+{
+  "tarefas": [
+    {
+      "id": "3",
+      "nome": "item 3"
+    },
+    {
+      "nome": "teste",
+      "id": "DZPOBTcL0UE"
+    },
+    {
+      "nome": "aa",
+      "id": "-_f1Q7oMvQo"
+    },
+    {
+      "nome": "aa",
+      "id": "jFmsxlWtbZI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
